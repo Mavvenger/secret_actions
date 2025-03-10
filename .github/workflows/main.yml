@@ -2,8 +2,8 @@ name: "secret_actions"
 
 on:
   schedule:
-    - cron: "26 22 * * *"
-    - cron: "35 6 * * *"
+    - cron: "53 20 * * *"
+    - cron: "0 7 * * *"
   workflow_dispatch:
 
 env:
